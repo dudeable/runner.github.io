@@ -7,7 +7,7 @@ def rescue_game():
     enemy_health = random.randint(50, 100)
 
     print("Welcome to the Rescue Mission!")
-    print(f"Your friend has been captured by the enemy. You need to rescue them.")
+    print(f"Your Friend has been captured by the enemy it is now your job to resucue them.")
 
     while player_health > 0:
         print("\n1. Attack")
